@@ -20,7 +20,7 @@ p {
 }
 
 .inner {
-  margin: 100px 0;
+  margin-top: 25px;
 }
 
 .thirds {
@@ -35,4 +35,8 @@ p {
 
 .ball-img {
   border-radius: 50%;
+}
+
+.column-par {
+  margin: 50px 0;
 }
